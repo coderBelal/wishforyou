@@ -2,7 +2,7 @@ const App = () => {
   return (
     <div className="birthdayCard">
       <div className="cardFront">
-        <h3 className="happy">MY DEAR /h3>
+        <h3 className="happy">MY DEAR </h3>
           <h3 className="happy">Afia</h3>
        
         <div className="balloons">
