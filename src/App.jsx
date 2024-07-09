@@ -17,7 +17,7 @@ const App = () => {
         <p>Dear Afia</p>
         <p>
 I hope you're well. I wanted to tell you how grateful I am to have you as my best friend. Your support, kindness, and understanding mean the world to me. 
-Thank you for always being there, whether we’re sharing laughter or facing challenges together. You are truly special, and I cherish our friendship deeply</p>
+Thank you for always being there, whether we’re sharing laughter or facing challenges together. You are truly special, and I cherish our friendship too deeply</p>
         <p className="name">your belal</p>
       </div>
     </div>
