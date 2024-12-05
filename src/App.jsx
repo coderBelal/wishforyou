@@ -3,7 +3,7 @@ const App = () => {
     <div className="birthdayCard">
       <div className="cardFront">
         <h3 className="happy">MY DEAR </h3>
-          <h4 className="happy"> Mim  </h4>
+          <h4 className="happy"> Mohsina akter   </h4>
        
         <div className="balloons">
           <div className="balloon-1" />
@@ -16,9 +16,10 @@ const App = () => {
         <h3 className="back"></h3>
         <p>Dear  Mim</p>
         <p>
-Happy Birthday! On this special day, I want to express how grateful I am to have you in my life. You have always been my support, my confidant, and my elder brother. I cherish all the memories we've made together and look forward to many more.
+    Happy Birthday! 🎉
+Wishing you a day filled with love, happiness, and endless joy. May all your dreams come true, and may your life always be as beautiful as your kind heart.Have an amazing day!
 </p>
-        <p className="name">someone</p>
+        <p className="name"> wishes Shimanto Sharkar Shamim</p>
       </div>
     </div>
   );
