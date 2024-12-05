@@ -19,7 +19,7 @@ const App = () => {
     Happy Birthday! 🎉
 Wishing you a day filled with love, happiness, and endless joy. May all your dreams come true, and may your life always be as beautiful as your kind heart.Have an amazing day!
 </p>
-        <p className="name"> wishes,
+        <p className="name"> wishes,<br/>
           Shamim</p>
       </div>
     </div>
